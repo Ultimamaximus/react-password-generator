@@ -128,7 +128,7 @@ const App = () => {
               type="number"
               id="password-strength"
               name="password-strength"
-              max="26"
+              max="23"
               min="8"
             />
           </div>
